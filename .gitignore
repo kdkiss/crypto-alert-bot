@@ -1,5 +1,0 @@
-# .gitignore
-config.py
-alerts.db
-__pycache__/config.cpython-311.pyc
-/alert_bot/.gitignore
