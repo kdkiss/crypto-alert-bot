@@ -2,4 +2,4 @@
 config.py
 alerts.db
 __pycache__/config.cpython-311.pyc
-.gitignore
+/alert_bot/.gitignore
