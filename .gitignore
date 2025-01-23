@@ -1,0 +1,9 @@
+openbb
+.venv
+config.py
+getting_started.ipynb
+backtest_high_level.ipynb
+.gitpod.yml
+scripts
+alerts.db
+__pycache__
