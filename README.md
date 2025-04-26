@@ -1,4 +1,4 @@
-Here’s a `README.md` file for your Bybit Alert Bot project:
+
 
 ```markdown
 # Bybit Alert Bot
