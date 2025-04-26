@@ -1,6 +1,5 @@
 
 
-```markdown
 # Bybit Alert Bot
 
 Bybit Alert Bot is a Telegram bot that allows users to set price alerts for cryptocurrency trading pairs on Bybit. Users can set alerts for when the price drops below or rises above a specified threshold. The bot fetches real-time data from the Bybit API and notifies users when their alert conditions are met.
@@ -142,6 +141,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Powered by [Bybit API](https://bybit.com).
 - Built using [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
-```
 
 ---
